@@ -1,9 +1,9 @@
 {
-    "compilerOptions": {
-        "rootDir": "src",
-        "baseUrl": "src",
-        "module": "commonjs",
-        "target": "es6",
-    },
-    "exclude": ["node_modules", "**/node_modules/*"]
+  "compilerOptions": {
+    "rootDir": "src",
+    "baseUrl": "src",
+    "module": "commonjs",
+    "target": "es6"
+  },
+  "exclude": ["node_modules", "**/node_modules/*"]
 }
